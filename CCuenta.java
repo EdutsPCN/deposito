@@ -1,5 +1,5 @@
 package cuentas;
-
+//prova per github
 public class CCuenta {
 
     private String nombre;
