@@ -4,6 +4,7 @@ package cuentas;
  * Clase que representa una cuenta bancaria con operaciones básicas
  * como ingresar y retirar dinero.
  */
+
 public class CCuenta {
 
     private String nombre;
